@@ -12,8 +12,13 @@
 HTML | CSS | JavaScript | React | Node.js | C++ | Git & GitHub | Figma | Bootstrap | GSAP | Tailwind | Firebase | MongoDB
 
 
+Current Skills:
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
