@@ -27,7 +27,8 @@ Current Skills:
 
 ## 🚀 Projects
 - [Personal Portfolio Website](https://arij-portfolio.netlify.app/)
-- [Expense Tracker App]([https://680b319efe888e80dd98d2dd--dazzling-churros-7509c5.netlify.app/)
+- [Expense Tracker App](680b319efe888e80dd98d2dd--dazzling-churros-7509c5.netlify.app/)
+- [Linkedin Clone](https://680b34b3b2bd129bc6ebc78e--teal-sunshine-512061.netlify.app/)
 
 ## 🧠 Currently Learning
 - React.js
