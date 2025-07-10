@@ -4,7 +4,7 @@
 ### A passionate Web Developer and Student from Pakistan
 
 - 🌱 I’m currently learning MERN Stack & Data Structures
-- 👨‍💻 All of my projects are available at [My Portfolio](https://arij-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://arijbaig547.github.io/Portfolio/)
 - 📫 How to reach me: **arijbaig97@gmail.com / arijbaig56@gmail.com*
 - ⚡ Fun fact: I love cricket, gaming, sleeping, and singing 🎮🎤😴🏏
 
