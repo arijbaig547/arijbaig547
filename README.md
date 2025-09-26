@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Mirza Arij Baig
 ### A passionate Web Developer and Student from Pakistan
 
-- 🌱 I’m currently learning MERN Stack & Data Structures
+- 🌱 I’m currently learning MERN Stack
 - 👨‍💻 All of my projects are available at [My Portfolio](https://arij-baig-portfolio.netlify.app/)
 - 📫 How to reach me: **arijbaig97@gmail.com / arijbaig56@gmail.com*
 - ⚡ Fun fact: I love cricket, gaming, sleeping, and singing 🎮🎤😴🏏
@@ -18,6 +18,11 @@ Current Skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 
 ## 🌐 Connect with me
@@ -29,14 +34,17 @@ Current Skills:
 
 | Tech Stack         | Project Name             | Live Link                                                                 |
 |--------------------|--------------------------|---------------------------------------------------------------------------|
-| HTML, CSS, JS      | Personal Portfolio       | [Visit](https://arijbaig547.github.io/Portfolio/)                         |
-| HTML,CSS,JS        | Expense Tracker App      | [Visit](https://680b319efe888e80dd98d2dd--dazzling-churros-7509c5.netlify.app/) |
-| HTML,CSS,BOOTSTRAP    | LinkedIn Clone           | [Visit](https://680b34b3b2bd129bc6ebc78e--teal-sunshine-512061.netlify.app/) |
+| HTML, CSS, JS      | Personal Portfolio       | [Visit](https://arij-baig-portfolio.netlify.app/)                       |
+| HTML,CSS,React Router | Travel Website SPA      | [Visit](https://react-travel-singlepage.netlify.app/) |
+| HTML,CSS,BOOTSTRAP    | Explore Mars With API           | [Visit](https://mars-explore.netlify.app/) |
+| HTML,CSS,BOOTSTRAP    | Food Ordering Website with Admin and User           | [Visit](https://saylani-foodpanda-clone.netlify.app/) |
+| HTML,CSS,Supabase    | SkyFly-Ticket Checking with Admin and User         | [Visit](https://stirring-travesseiro-1fc0a0.netlify.app/) |
+
 
 More on Repository
 
 ## 🧠 Currently Learning
 - React.js
-- C++ DSA
+- Express and Node.s
 - Git and GitHub
 - MongoDB & Express
